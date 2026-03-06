@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Gamboncee crypto'
         required: true
-        default: 'Gamboncee crypto'
+        default: 'Gamboncee'
       agent_description:
         description: 'Gamboncee crypto'
         required: true
